@@ -99,41 +99,23 @@ Bu kaynaklar gerçek bir e-ticaret altyapısını temsil etmemektedir. API kulla
 
 ## Ekran Görüntüleri
 
-### Ana Sayfa
+![Ana Sayfa](Home.png)
 
-![Ana Sayfa](screenshots/Home.png)
+![Ürün Arama](search.png)
 
-### Ürün Arama
+![Ürün Detay](detail.png)
 
-![Ürün Arama](screenshots/search.png)
+![Sepete Ekleme](AddToCart.png)
 
-### Ürün Detay Sayfası
+![Detay ve Buton](detailAndButton.png)
 
-![Ürün Detay](screenshots/detail.png)
+![Snackbar](AddToCartAndSnackBar.png)
 
-### Ürünü Sepete Ekleme
+![Sepet](TotalAmount.png)
 
-![Sepete Ekleme](screenshots/AddToCart.png)
+![Boş Sepet](Empty Shopping Cart.png)
 
-### Ürün Detayı + Add To Cart Butonu
-
-![Detay ve Buton](screenshots/detailAndButton.png)
-
-### Sepete Eklendi Snackbar Mesajı
-
-![Snackbar](screenshots/AddToCartAndSnackBar.png)
-
-### Sepet Ekranı
-
-![Sepet](screenshots/TotalAmount.png)
-
-### Boş Sepet Ekranı
-
-![Boş Sepet](screenshots/EmptyShoppingCart.png)
-
-### Ürün Detayı ve Snackbar
-
-![Detay ve Snackbar](screenshots/DetailAndSnackBar.png)
+![Detay ve Snackbar](DetailAndSnackBar.png)
 
 ## Proje Durumu
 
