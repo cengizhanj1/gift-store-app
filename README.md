@@ -1,17 +1,74 @@
-# mini_katalog_app
+Gift Store App
+Proje Hakkında
 
-A new Flutter project.
+Gift Store App, Flutter haftalık eğitimi kapsamında geliştirilmiş bir Mini Katalog Uygulamasıdır.
 
-## Getting Started
+Proje; Flutter'ın temel mimarisini, widget yapısını, sayfalar arası navigasyonu, veri modelleme mantığını, API kullanarak veri çekmeyi ve temel durum (state) yönetimini uygulamalı olarak öğretmek amacıyla geliştirilmiştir.
 
-This project is a starting point for a Flutter application.
+Uygulama içerisinde ürün listeleme, ürün detay görüntüleme, ürün arama ve sepet işlemleri gibi temel e-ticaret uygulamalarında kullanılan yapılar simüle edilmiştir.
 
-A few resources to get you started if this is your first Flutter project:
+Özellikler
+Ürün listeleme ekranı
+Ürün detay ekranı
+Sepet sistemi simülasyonu
+Ürün arama ve filtreleme
+GridView ile kart tabanlı tasarım
+Sayfalar arası geçiş (Navigator)
+Route Arguments kullanımı
+Basit state güncelleme örneği
+REST API üzerinden veri çekme
+Responsive mobil arayüz tasarımı
+Kullanılan Teknolojiler
+Flutter
+Dart
+Material Design
+REST API
+Geliştirme Ortamı
+Flutter 3.41.4
+Dart 3.11.1
+Android Studio Emulator
+Git & GitHub
+Projeyi Çalıştırma
+1. Repoyu klonlayın
+git clone https://github.com/cengizhanj1/gift-store-app.git
+2. Proje klasörüne girin
+cd gift-store-app
+3. Gerekli paketleri yükleyin
+flutter pub get
+4. Bağlı cihazları kontrol edin
+flutter devices
+5. Android Emulator veya fiziksel cihaz açın
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Android Studio üzerinden bir emulator başlatın veya USB hata ayıklama açık bir Android cihaz bağlayın.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+6. Uygulamayı çalıştırın
+flutter run
+Kullanılan Veri Kaynakları
+
+Bu proje kapsamında kullanılan veri kaynakları eğitim ve demo amaçlıdır.
+
+Banner Görseli
+
+https://wantapi.com/assets/banner.png
+
+Ürün Verileri
+
+https://wantapi.com/products.php
+
+Bu kaynaklar gerçek bir e-ticaret altyapısını temsil etmemektedir. API kullanımı, veri modelleme ve listeleme mantığını öğretmek amacıyla kullanılmıştır.
+
+Ekran Görüntüleri
+
+Aşağıda uygulamaya ait ekran görüntüleri yer almaktadır.
+
+Ana Sayfa
+Ürün Arama
+Ürün Detay Sayfası
+Sepet Ekranı
+Sepetten Ürün Silme İşlemi
+
+(Ekran görüntüleri buraya eklenecektir.)
+
+Proje Durumu
+
+Proje eğitim kapsamında başarıyla tamamlanmıştır ve çalışır durumdadır.
